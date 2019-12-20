@@ -1,0 +1,11 @@
+name: "my-website"
+navbar:
+  title: "CUTT/events"
+  left:
+    - text: "Budget"
+      href: index.html
+
+    
+  
+
+   
